@@ -1,107 +1,129 @@
-<div dir="rtl">
+# מדיניות פרטיות — כחול לבן (Kahol-Lavan)
 
-# מדיניות פרטיות — אפליקציית כחול-לבן
+**תאריך עדכון אחרון:** 10 במרץ 2026
 
-## מבוא
-
-אפליקציית כחול-לבן ("האפליקציה") מספקת שירות לחיפוש, מכירה, קנייה והחלפת מקומות חניה בכחול-לבן בתל אביב. אנו מחויבים להגן על פרטיותכם ולהיות שקופים לגבי המידע שאנו אוספים.
-
-## מידע שאנו אוספים
-
-- **פרטי חשבון:** כתובת דוא"ל, מספר טלפון ושם לצורך יצירת חשבון והתחברות.
-- **נתוני מיקום:** מיקום המכשיר שלכם בזמן שימוש באפליקציה, לצורך הצגת חניות פנויות באזורכם.
-- **נתוני שימוש:** מידע אנליטי על אופן השימוש באפליקציה לצורך שיפור השירות.
-
-## תשלומים
-
-האפליקציה אינה אוספת או מאחסנת פרטי תשלום באופן ישיר. עסקאות תשלום מנוהלות על ידי ספק צד שלישי — Rapyd. פרטי התשלום שלכם נאספים ומעובדים ישירות על ידי Rapyd בהתאם למדיניות הפרטיות שלהם. אנו מקבלים מ-Rapyd מזהה ארנק בלבד, ולא פרטי כרטיס אשראי או חשבון בנק.
-
-## כיצד אנו משתמשים במידע
-
-- לספק את שירותי האפליקציה — חיפוש, מכירה, קנייה והחלפת חניות.
-- לשלוח התראות רלוונטיות על חניות באזורכם.
-- לשפר ולפתח את האפליקציה.
-- לתקשר איתכם בנוגע לחשבונכם.
-
-## שיתוף מידע
-
-אנו לא מוכרים את המידע האישי שלכם. אנו משתפים מידע רק עם:
-
-- **Rapyd** — לצורך עיבוד תשלומים.
-- **ספקי שירות אנליטיקה** — לצורך שיפור האפליקציה.
-- **רשויות** — כאשר הדבר נדרש על פי חוק.
-
-## אבטחת מידע
-
-אנו נוקטים באמצעי אבטחה סבירים כדי להגן על המידע שלכם. עם זאת, אין שיטת העברה באינטרנט שהיא מאובטחת ב-100%.
-
-## זכויותיכם
-
-באפשרותכם לבקש גישה למידע האישי שלכם, לתקן מידע שגוי, למחוק את חשבונכם ואת המידע הקשור אליו, או לבקש להפסיק את עיבוד המידע שלכם.
-
-## שינויים במדיניות
-
-אנו עשויים לעדכן מדיניות זו מעת לעת. שינויים מהותיים יפורסמו באפליקציה.
-
-## יצירת קשר
-
-לשאלות בנושא פרטיות: **evyatar.kopans@gmail.com**
+אפליקציית "כחול לבן" (להלן: "האפליקציה") היא פלטפורמה לשיתוף מקומות חניה בין משתמשים בישראל. מדיניות פרטיות זו מתארת כיצד אנו אוספים, משתמשים, משתפים ומגנים על המידע האישי שלך.
 
 ---
 
-עודכן לאחרונה: מרץ 2026
+## 1. מידע שאנו אוספים
 
-</div>
+### 1.1 מידע שנמסר על ידך
+- **פרטי חשבון:** כתובת דוא"ל, שם, סיסמה בעת ההרשמה.
+- **פרטי רכב:** מספר רכב, דגם, צבע — לצורך זיהוי החניה.
+- **פרטי תשלום:** מידע ארנק ואמצעי תשלום המנוהלים באמצעות שירות Rapyd.
 
----
+### 1.2 מידע שנאסף באופן אוטומטי
+- **מיקום גיאוגרפי:** מיקום GPS בזמן אמת לצורך הצגת חניות זמינות וסימון מקום חניה.
+- **נתוני שימוש:** אינטראקציות עם האפליקציה, זמני שימוש, וסוג המכשיר.
+- **מזהי מכשיר:** סוג מכשיר, מערכת הפעלה, ומזהה ייחודי לצורך אבטחה.
 
-# Privacy Policy — Kahol-Lavan App
-
-## Introduction
-
-The Kahol-Lavan app ("the App") provides a service for finding, selling, buying, and exchanging blue-and-white street parking spots in Tel Aviv. We are committed to protecting your privacy and being transparent about the information we collect.
-
-## Information We Collect
-
-- **Account details:** Email address, phone number, and name for account creation and login.
-- **Location data:** Your device location while using the App, to show available parking spots near you.
-- **Usage data:** Analytics information about how you use the App, to improve the service.
-
-## Payments
-
-The App does not directly collect or store payment information. Payment transactions are handled by a third-party provider — Rapyd. Your payment details are collected and processed directly by Rapyd in accordance with their privacy policy. We only receive a wallet ID from Rapyd, not credit card or bank account details.
-
-## How We Use Your Information
-
-- Provide the App's services — searching, selling, buying, and exchanging parking spots.
-- Send relevant notifications about parking spots in your area.
-- Improve and develop the App.
-- Communicate with you regarding your account.
-
-## Information Sharing
-
-We do not sell your personal information. We share information only with:
-
-- **Rapyd** — for payment processing.
-- **Analytics providers** — to improve the App.
-- **Authorities** — when required by law.
-
-## Data Security
-
-We take reasonable security measures to protect your information. However, no method of transmission over the internet is 100% secure.
-
-## Your Rights
-
-You may request access to your personal information, correct inaccurate information, delete your account and associated data, or request to stop processing your information.
-
-## Changes to This Policy
-
-We may update this policy from time to time. Material changes will be announced in the App.
-
-## Contact Us
-
-For privacy-related questions: **evyatar.kopans@gmail.com**
+### 1.3 מידע מהודעות וצ'אט
+- **הודעות צ'אט:** תוכן השיחות בין משתמשים בנושא תיאום חניה, המנוהל באמצעות שירות Stream Chat.
 
 ---
 
-Last updated: March 2026
+## 2. כיצד אנו משתמשים במידע
+
+- **אספקת השירות:** הצגת מקומות חניה, ניהול הזמנות, תיאום בין משתמשים.
+- **עיבוד תשלומים:** ביצוע והשלמת תשלומים עבור שירותי חניה.
+- **תקשורת:** שליחת התראות, עדכונים ותזכורות הקשורות לשירות.
+- **שיפור השירות:** ניתוח דפוסי שימוש לצורך שיפור חוויית המשתמש.
+- **אבטחה:** זיהוי ומניעת שימוש לרעה, הונאות ופעילות בלתי מורשית.
+
+---
+
+## 3. שירותי צד שלישי
+
+האפליקציה משתמשת בשירותים חיצוניים הבאים, אשר עשויים לעבד מידע אישי בהתאם למדיניות הפרטיות שלהם:
+
+### 3.1 Supabase
+- **שימוש:** אימות משתמשים, אחסון נתונים, ופונקציות שרת.
+- **מידע מועבר:** פרטי חשבון, נתוני חניה, מצב הזמנות.
+- [מדיניות פרטיות Supabase](https://supabase.com/privacy)
+
+### 3.2 Rapyd
+- **שימוש:** עיבוד תשלומים, ניהול ארנקים דיגיטליים.
+- **מידע מועבר:** פרטי תשלום, נתוני עסקאות, מזהה משתמש.
+- [מדיניות פרטיות Rapyd](https://www.rapyd.net/privacy-policy/)
+
+### 3.3 Stream Chat
+- **שימוש:** מערכת הודעות בזמן אמת בין משתמשים.
+- **מידע מועבר:** מזהה משתמש, שם תצוגה, תוכן הודעות.
+- [מדיניות פרטיות Stream](https://getstream.io/legal/privacy/)
+
+### 3.4 Google Maps Platform
+- **שימוש:** הצגת מפות, קידוד גיאוגרפי (geocoding), השלמה אוטומטית של כתובות.
+- **מידע מועבר:** נתוני מיקום, שאילתות חיפוש כתובות.
+- [מדיניות פרטיות Google](https://policies.google.com/privacy)
+
+### 3.5 Upstash (QStash)
+- **שימוש:** ניהול טיימרים ומשימות מתוזמנות (כגון תזכורות עזיבת חניה).
+- **מידע מועבר:** מזהי משימות, זמני תזמון.
+- [מדיניות פרטיות Upstash](https://upstash.com/trust/privacy.html)
+
+### 3.6 Firebase (Google)
+- **שימוש:** אחסון ואירוח (hosting) של ממשק האינטרנט.
+- **מידע מועבר:** נתוני גישה בסיסיים (כתובת IP, סוג דפדפן).
+- [מדיניות פרטיות Firebase](https://firebase.google.com/support/privacy)
+
+### 3.7 Expo / EAS (Expo Application Services)
+- **שימוש:** בנייה והפצת האפליקציה הסלולרית.
+- **מידע מועבר:** נתוני מכשיר בסיסיים לצורך תאימות.
+- [מדיניות פרטיות Expo](https://expo.dev/privacy)
+
+---
+
+## 4. שיתוף מידע
+
+איננו מוכרים את המידע האישי שלך. אנו משתפים מידע רק במקרים הבאים:
+- **עם משתמשים אחרים:** מיקום חניה, פרטי רכב, והודעות — כחלק מהשירות.
+- **עם ספקי שירות:** כמפורט בסעיף 3 לעיל, לצורך הפעלת השירות בלבד.
+- **חובה חוקית:** כאשר נדרש על פי דין, צו בית משפט, או רשות מוסמכת.
+
+---
+
+## 5. אחסון ואבטחת מידע
+
+- המידע מאוחסן בשרתי Supabase מאובטחים.
+- אנו משתמשים בהצפנת SSL/TLS להעברת נתונים.
+- אימות מבוסס JWT (JSON Web Tokens) לגישה לשירותים.
+- גישה למידע מוגבלת למערכות ולעובדים הנדרשים להפעלת השירות.
+
+---
+
+## 6. זכויות המשתמש
+
+בהתאם לחוק הגנת הפרטיות, התשמ"א-1981, עומדות לך הזכויות הבאות:
+- **עיון:** זכות לעיין במידע האישי שלך המוחזק אצלנו.
+- **תיקון:** זכות לבקש תיקון מידע שגוי.
+- **מחיקה:** זכות לבקש מחיקת חשבונך והמידע הנלווה.
+- **התנגדות:** זכות להתנגד לעיבוד המידע למטרות מסוימות.
+
+לביצוע כל אחת מהזכויות הנ"ל, ניתן לפנות אלינו בכתובת הדוא"ל המפורטת בסעיף 9.
+
+---
+
+## 7. שימוש במיקום
+
+האפליקציה דורשת גישה למיקום שלך לצורך:
+- הצגת מקומות חניה זמינים בסביבתך.
+- סימון מקום חניה שאתה עוזב.
+- חישוב מרחקים ואזורי חניה.
+
+ניתן לבטל את הרשאת המיקום בכל עת דרך הגדרות המכשיר, אך הדבר יגביל את פונקציונליות האפליקציה.
+
+---
+
+## 8. שינויים במדיניות
+
+אנו עשויים לעדכן מדיניות זו מעת לעת. שינויים מהותיים יפורסמו באפליקציה ו/או באמצעות הודעת דוא"ל. המשך השימוש באפליקציה לאחר פרסום עדכון מהווה הסכמה למדיניות המעודכנת.
+
+---
+
+## 9. יצירת קשר
+
+לשאלות או בקשות בנוגע למדיניות פרטיות זו, ניתן לפנות אלינו:
+
+- **דוא"ל:** [your-email@example.com]
+- **אתר:** [your-website-url]
